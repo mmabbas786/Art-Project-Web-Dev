@@ -27,7 +27,7 @@ nav{
     align-items: center;
     color: rgba(32, 78, 91, 0.748);
     padding: 20px;
-    margin-bottom: 5rem;
+    margin-bottom: 4rem;
     box-shadow: 0px 20px 29px 0px rgba(0,0,0,0.75);
 -webkit-box-shadow: 0px 20px 29px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px 20px 29px 0px rgba(0,0,0,0.75);
@@ -36,7 +36,7 @@ nav{
 nav ul{
 margin: 5rem;
 list-style: none;
-font-size: 100px;
+font-size: 20px;
 }
 
 li a{
@@ -62,14 +62,14 @@ nav .burger span{
 
 header{
     margin: 6rem;
-    font-size: 10rem;
+    font-size: 2rem;
     font-weight: 600;
 }
 .primary-heading{
     width: 50%;
     margin-top: 5rem;
-    font-size: 5rem;
-    line-height: 120px;
+    font-size: 3rem;
+    line-height: 100px;
 }
 
 .bg-gray{
@@ -101,14 +101,14 @@ main .img{
 
 /* SECTION THREE START */
 .section-three{
-    margin: 15rem;
+    margin: 5rem;
 }
 .section-three{
-    margin-bottom: 10rem;
-    font-size: 7rem;
+    margin-bottom: 15rem;
+    font-size: 3rem;
 }
 .main-heading{
-    font-size: 15rem;
+    font-size: 5rem;
 }
 .list{
     display: flex;
@@ -132,9 +132,9 @@ main .img{
 }
 
 .section-three img{
-    width: 100rem;
-    height: 100rem;
-    margin: 100px;
+    width: 10rem;
+    height: 10rem;
+    margin: 10px;
 }
 /* Section Three Ends */
 
