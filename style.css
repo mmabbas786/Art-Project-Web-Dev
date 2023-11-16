@@ -101,14 +101,14 @@ main .img{
 
 /* SECTION THREE START */
 .section-three{
-    margin: 5rem;
+    margin: 3rem;
 }
 .section-three{
-    margin-bottom: 15rem;
-    font-size: 3rem;
+    margin-bottom: 3rem;
+    font-size: 2.5rem;
 }
 .main-heading{
-    font-size: 5rem;
+    font-size: 2.5rem;
 }
 .list{
     display: flex;
@@ -126,14 +126,14 @@ main .img{
 -moz-box-shadow: -4px 7px 42px 0px rgba(0,0,0,0.75);
 }
 .section-three .item h1 {
-    font-size: 5rem;
+    font-size: 2rem;
     color: rgb(53, 53, 53);
     margin-left: 1rem;
 }
 
 .section-three img{
-    width: 10rem;
-    height: 10rem;
+    width: 2rem;
+    height: 2rem;
     margin: 10px;
 }
 /* Section Three Ends */
@@ -143,7 +143,7 @@ footer{
     margin-top: 3rem;
     height: 100vh;
     display: flex;
-    font-size: 40px;
+    font-size: 20px;
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: space-around;
